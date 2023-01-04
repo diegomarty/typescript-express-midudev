@@ -1,23 +1,23 @@
 [
   {
-    id: 1,
-    date: '2019-01-01',
-    weather: 'rainy',
-    visibility: 'poor',
-    comment: 'It was a rainy day'
+    "id": 1,
+    "date": "2019-01-01",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "It was a rainy day"
   },
   {
-    id: 2,
-    date: '2019-02-02',
-    weather: 'sunny',
-    visibility: 'good',
-    comment: 'It was a sunny day'
+    "id": 2,
+    "date": "2019-02-02",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "It was a sunny day"
   },
   {
-    id: 3,
-    date: '2019-03-03',
-    weather: 'cloudy',
-    visibility: 'good',
-    comment: 'It was a cloudy day'
+    "id": 3,
+    "date": "2019-03-03",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "It was a cloudy day"
   }
 ]
